@@ -156,9 +156,6 @@ AI-Financial-Assistant/
 │   ├── stock_dashboard.png
 │   └── portfolio.png
 │
-├── notebooks/
-│   └── AI_Financial_Assistant_Gemini.ipynb
-│
 ├── app.py
 ├── requirements.txt
 └── README.md
@@ -191,6 +188,3 @@ AI Financial Assistant using Generative AI
 
 Sanjeev Manvith Vellala
 
-LinkedIn: https://linkedin.com/in/vellala-sanjeev-manvith-3ab865324
-
-GitHub: https://github.com/YOUR_USERNAME
