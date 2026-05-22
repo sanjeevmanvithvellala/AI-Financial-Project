@@ -188,3 +188,4 @@ AI Financial Assistant using Generative AI
 
 Sanjeev Manvith Vellala
 
+Live Demo : "https://ai-financial-project-mdrgd4p3dkqudsnsyggrxw.streamlit.app/"
