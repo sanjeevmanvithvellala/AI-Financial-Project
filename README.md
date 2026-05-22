@@ -54,23 +54,23 @@ This application leverages Generative AI and NLP workflows to provide intelligen
 
 ### Financial Chatbot
 
-![Chatbot](screenshots/Chatbot.png)
+![Chatbot](Screenshots/Chatbot.png)
 
 ### Financial Sentiment Analysis
 
-![Sentiment](screenshots/Sentiment.png)
+![Sentiment](Screenshots/Sentiment.png)
 
 ### Finance News Summarizer
 
-![Summarizer](screenshots/Summarizer.png)
+![Summarizer](Screenshots/Summarizer.png)
 
 ### Stock Market Dashboard
 
-![Stock Dashboard](screenshots/Stock_dashboard.png)
+![Stock Dashboard](Screenshots/Stock_dashboard.png)
 
 ### Portfolio Analyzer
 
-![Portfolio](screenshots/Portfolio.png)
+![Portfolio](Screenshots/Portfolio.png)
 
 ---
 
